@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://qinlincmu.github.io/cact.github.io/sitemap.xml
